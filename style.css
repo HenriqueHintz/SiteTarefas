@@ -1,0 +1,50 @@
+body {
+    background-color: #fdfffc;
+
+    color: #221e22;
+
+    font-family: monospace;
+
+    margin-top: 90px;
+    margin-left: 20%;
+}
+
+input {
+
+    height: 32px;
+    background-color: transparent;
+    color: #080708;
+    border-color: #52b788;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 8px;
+}
+
+.title {
+
+    font-size: 40px;
+
+    color: #221e22;
+}
+
+.list-item {
+    color: #221e22;
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+
+
+
+
+button {
+
+    font-size: 16px;
+    font-weight: bold;
+    font-family: monospace;
+    padding: 16px;
+    border-width: 0px;
+    border-radius: 4px;
+    background-color: #52b788;
+    color: #221e22;
+
+}
